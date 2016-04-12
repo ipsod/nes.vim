@@ -10,8 +10,8 @@ colors just right, but the code needs an overhaul, as it has some quirks:
   running.
 - I've got no idea if it works with neovim.
 - I've only tested it with languages and language-features that I actually use.
-- There are images in the source so that I can reference here.  I'm sure that there's a better way
-  to do that.
+- There are images in the source so that I can embed them in this README.  I'm sure that there's a
+  better way to do that.
 
 Someday, I'd like to take some other colorscheme that does work well in terminal and neovim (like
 kalisi -  https://github.com/freeo/vim-kalisi), and import these colors into it.  I don't know when
