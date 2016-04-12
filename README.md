@@ -1,7 +1,5 @@
-This is a vim colorscheme I've developed over the years.  I've named it NES, because it reminds me
-of the original NES's colorscheme.
-
-I like the way it looks, but it has quirks:
+This is a vim colorscheme that I've developed over the years.  I finally feel like I've got it just
+right, but it's built on top of an already-broken colorscheme, so it has quirks:
 - For some reason, it doesn't work in the terminal without explicitly loading it after vim is
   running.
 - I've got no idea if it works with neovim.
