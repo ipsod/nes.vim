@@ -29,7 +29,9 @@ hi cInclude        gui=none                      guifg=#ffffff
 hi ColorColumn     gui=none       guibg=#111111
 "hi Comment         gui=none       guibg=#1a1a1a  guifg=#cccccc
 hi Comment         gui=none       guibg=#333333  guifg=#bbdd77
-hi Constant        gui=none       guibg=#221133  guifg=#7722ff
+"hi Constant        gui=none       guibg=#221133  guifg=#7722ff
+"hi Constant        gui=none       guibg=#221133  guifg=#22dd33
+hi Constant        gui=none       guibg=#cccccc  guifg=#222222
 
 hi Cursor          gui=bold       guibg=#cccccc  guifg=#2a2a2a
 hi CursorColumn    gui=none       guibg=#dddddd
@@ -70,7 +72,8 @@ hi SpecialKey      gui=none                      guifg=#ffffff
 hi Statement       gui=none       guibg=#111111  guifg=#ffffff
 hi StatusLine      gui=bold       guibg=#000044  guifg=#9999ff
 hi StatusLineNC    gui=bold       guibg=#9999ff  guifg=#000044
-hi String          gui=none       guibg=#222a33  guifg=#99aaff
+"hi String          gui=none       guibg=#222a33  guifg=#99aaff
+hi string          gui=none       guibg=#444444  guifg=#ffffff
 "hi String          gui=none       guibg=#1a2233  guifg=#99aacc
 "hi String          gui=none       guibg=#cccccc  guifg=#111111
 "hi String          gui=none       guibg=#001133  guifg=#ffcc55
