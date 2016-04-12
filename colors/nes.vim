@@ -31,7 +31,7 @@ hi ColorColumn     gui=none       guibg=#111111
 hi Comment         gui=none       guibg=#333333  guifg=#bbdd77
 "hi Constant        gui=none       guibg=#221133  guifg=#7722ff
 "hi Constant        gui=none       guibg=#221133  guifg=#22dd33
-hi Constant        gui=none       guibg=#cccccc  guifg=#222222
+hi Constant        gui=none       guibg=#aaaaaa  guifg=#000000
 
 hi Cursor          gui=bold       guibg=#cccccc  guifg=#2a2a2a
 hi CursorColumn    gui=none       guibg=#dddddd
