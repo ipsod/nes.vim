@@ -5,7 +5,7 @@ a vim colorscheme based on the original 8-bit Nintendo hardware
 ---------------------------------------------------------------
 
 This is a vim colorscheme that I've developed over the years.  I finally feel like I've got the
-colors just right, but the code needs an overhaul, as it has some quirks:
+colors almost just right, but the code needs an overhaul, as it has some quirks:
 - For some reason, it doesn't work in the terminal without explicitly loading it after vim is
   running.
 - I've got no idea if it works with neovim.
