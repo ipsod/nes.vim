@@ -1,7 +1,7 @@
 nes.vim
 =======
 
-a vim colorscheme inspired by the original 8-bit NES hardware
+a Vim colorscheme inspired by the original 8-bit NES hardware
 -------------------------------------------------------------
 
 This is a vim colorscheme that I've developed over the years.  I finally feel like I've got the
