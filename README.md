@@ -21,6 +21,7 @@ or if I'll get around to it, so a pull request would really be appreciated.
 
 == Design Goals ==
 - Things that *are* different should *look* different.  This goes beyond foreground color.
+- Most things should have a neutral color.
 - Python objects are the default and should look that way, and everything else should look like it's
   an "outsider".  
 - Important code should be easy to pick out while scanning.
