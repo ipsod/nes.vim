@@ -31,8 +31,7 @@ hi ColorColumn     gui=none       guibg=#111111
 hi Comment         gui=none       guibg=#333333  guifg=#bbdd77
 "hi Constant        gui=none       guibg=#221133  guifg=#7722ff
 "hi Constant        gui=none       guibg=#221133  guifg=#22dd33
-hi Constant        gui=none       guibg=#aaaaaa  guifg=#000000
-
+hi Constant        gui=none       guibg=#444444  guifg=#ffffff
 hi Cursor          gui=bold       guibg=#cccccc  guifg=#2a2a2a
 hi CursorColumn    gui=none       guibg=#dddddd
 hi CursorLine      gui=none       guibg=#1a1a1a
@@ -59,7 +58,7 @@ hi MoreMsg         gui=none                      guifg=#ffffff
 hi NonText         gui=none                      guifg=#009900
 hi Normal          gui=none       guibg=#2a2a2a  guifg=#dddddd
 "hi Operator        gui=bold       guibg=#3a0a0a  guifg=#cc2222
-hi Operator        gui=bold                      guifg=#bb0000
+hi Operator        gui=bold       guibg=#2a2a2a  guifg=#bb0000
 "hi PreProc         gui=bold                      guifg=#bbbb55
 "hi PreProc         gui=bold       guibg=#333311  guifg=#bbbb55
 hi PreProc         gui=none       guibg=#333311  guifg=#cccc99
@@ -67,13 +66,13 @@ hi Question        gui=none                      guifg=#ffffff
 hi Search          gui=none       guibg=#ffffff  guifg=#2a2a2a
 hi SignColumn      gui=none                      guifg=#ffffff
 "hi Special         gui=none       guibg=#0a3a0a  guifg=#00bb00
-hi Special         gui=none                      guifg=#00bb00
+hi Special         gui=none       guibg=#002200  guifg=#00bb00
 hi SpecialKey      gui=none                      guifg=#ffffff
 hi Statement       gui=none       guibg=#111111  guifg=#ffffff
 hi StatusLine      gui=bold       guibg=#000044  guifg=#9999ff
 hi StatusLineNC    gui=bold       guibg=#9999ff  guifg=#000044
 "hi String          gui=none       guibg=#222a33  guifg=#99aaff
-hi string          gui=none       guibg=#444444  guifg=#ffffff
+hi String          gui=none       guibg=#333333  guifg=#dddddd
 "hi String          gui=none       guibg=#1a2233  guifg=#99aacc
 "hi String          gui=none       guibg=#cccccc  guifg=#111111
 "hi String          gui=none       guibg=#001133  guifg=#ffcc55
