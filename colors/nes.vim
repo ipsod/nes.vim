@@ -1,0 +1,1 @@
+/home/zero/.vim/colors/nes.vim
