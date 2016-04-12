@@ -14,4 +14,4 @@ kalisi -  https://github.com/freeo/vim-kalisi), and import these colors into it.
 or if I'll get around to it, so a pull request would really be appreciated.
 
 
-![python_example](/images/python_example.jpg)
+![python_example](/images/python_example.png)
