@@ -19,6 +19,11 @@ or if I'll get around to it, so a pull request would really be appreciated.
 
 ![python_example](/images/python_example.png)
 
+
+Blue version (bluenes.vim):
+
+![python_example](/images/blue_python_example.png)
+
 == Design Goals ==
 - Things that *are* different should *look* different.  This goes beyond foreground color.
 - Most things should have a neutral color.
