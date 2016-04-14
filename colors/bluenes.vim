@@ -91,7 +91,8 @@ hi WarningMsg      gui=none       guibg=#888888  guifg=#2a2a2a
 " Add parenthesis highlighting for python
 syn match Braces display '[{}()\[\]]'
 "hi Braces         gui=none       guibg=#0a330a  guifg=#00bb00
-hi Braces         gui=bold                       guifg=#00bbff
+"hi Braces         gui=bold                       guifg=#00bbff
+hi Braces         gui=none       guibg=#002200  guifg=#00bb00
 
 " Add docstring highlighting for python
 syn region pythonDocstring  start=+^\s*[uU]\?[rR]\?"""+ end=+"""+ keepend excludenl contains=pythonEscape,@Spell,pythonDoctest,pythonDocTest2,pythonSpaceError
