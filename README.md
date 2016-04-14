@@ -22,8 +22,8 @@ or if I'll get around to it, so a pull request would really be appreciated.
 
 ### bluenes.vim
 
-While I think the above version looks cooler, the red kind of grates on my
-after a while, so I made this blue version:
+While I think the above version looks cooler, the red kind of grates on my nerves after a while, so
+I made this blue version:
 
 ![python_example](/images/blue_python_example.png)
 
