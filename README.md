@@ -20,13 +20,16 @@ or if I'll get around to it, so a pull request would really be appreciated.
 ![python_example](/images/python_example.png)
 
 
-*bluenes.vim*
+### bluenes.vim
+
 While I think the above version looks cooler, the red kind of grates on my
 after a while, so I made this blue version:
 
 ![python_example](/images/blue_python_example.png)
 
-== Design Goals ==
+Design Goals
+------------
+
 - Things that *are* different should *look* different.  This goes beyond foreground color.
 - Most things should have a neutral color.
 - Python objects are the default and should look that way, and everything else should look like it's
